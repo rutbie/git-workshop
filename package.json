@@ -1,0 +1,17 @@
+{
+  "name": "git-workshop",
+  "version": "1.0.0",
+  "description": "Repo for internal git workshop.",
+  "main": "index.js",
+  "scripts": {
+    "test:config": "playwright test -c ./playwright-automation.config.ts",
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.25"
+  }
+}
