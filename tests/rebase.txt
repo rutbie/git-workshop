@@ -6,3 +6,4 @@ merge commit
 new commit
 
 third commit
+fourth commit
