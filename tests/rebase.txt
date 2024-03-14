@@ -4,3 +4,5 @@ second commit
 merge commit
 
 new commit
+
+third commit
