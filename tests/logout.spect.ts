@@ -6,4 +6,5 @@ test('should logout', async ({ page }) => {
   // Expect a title "to contain" a substring.
   await expect(page).toHaveTitle(/Logout/);
   // add comment
+  // add another comment
 });
