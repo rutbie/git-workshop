@@ -2,3 +2,5 @@ first commit
 second commit
 
 merge commit
+
+new commit
