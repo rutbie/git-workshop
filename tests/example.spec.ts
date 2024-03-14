@@ -24,3 +24,8 @@ test('new test', async ({ page }) => {
 
   await expect(page.getByRole('heading', { name: 'This content is secret' })).toBeVisible();
 })
+
+test('get started link', async ({ page }) => {
+  await page.pause();
+  // add comment
+});
