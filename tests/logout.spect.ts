@@ -8,3 +8,8 @@ test('should logout', async ({ page }) => {
   // add comment
   // add another comment
 });
+
+test('should logout and login', async ({ page }) => {
+    // add comment
+    // add another comment
+  });
